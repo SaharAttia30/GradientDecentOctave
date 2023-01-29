@@ -1,7 +1,6 @@
 % Gradient descent function for Multi Varaible
 % Finds t0, t1 thus J() goes to minima
-% Last update: 11-11-2022
-% Created by Dr. Yevgeny Beiderman
+% HW2
 
 clc
 close all;
