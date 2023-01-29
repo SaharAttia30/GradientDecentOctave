@@ -1,7 +1,6 @@
 %  This function creates and plots data around the regression line
 %  Training set
-%  Created by Dr.Yevgeny Beiderman
-%  Last edited : 06-11-2022
+%  HW2
 
 
 
